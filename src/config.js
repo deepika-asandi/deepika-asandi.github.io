@@ -11,16 +11,16 @@ module.exports = {
   name: 'Deepika Asandi',
   location: 'Indore, India',
   email: 'sai_deepika.asandi@tufts.edu',
-  github: 'https://github.com/yashitanamdeo',
+  github: 'https://github.com/deepika-asandi',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/deepika-asandi',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/deepika-asandi/',
     },
     {
       name: 'Codepen',

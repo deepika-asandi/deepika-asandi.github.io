@@ -2,7 +2,7 @@
 date: '4'
 title: 'AI Face Landmark Detection'
 cover: 'face-landmark.png'
-github: 'https://github.com/yashitanamdeo/face-landmark-detection'
+github: 'https://github.com/deepika-asandi/face-landmark-detection'
 external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
 tech:
   - TensorFlow.JS
