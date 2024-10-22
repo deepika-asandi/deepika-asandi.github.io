@@ -1,5 +1,5 @@
 ---
-date: '2024-07'
+date: '2024-07-01'
 title: 'Data Analyst Intern'
 company: 'Massachusetts Bay Transportation Authority '
 location: onsite
