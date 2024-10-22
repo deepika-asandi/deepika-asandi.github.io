@@ -3,13 +3,13 @@ module.exports = {
   siteDescription:
     'Deepika Asandi is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Deepika Asandi, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
+    'Deepika Asandi, Deepika, Asandi, deepikaasandi, software engineer, web developer, javascript, python, java, svvv, indore',
   siteUrl: 'https://yashitanamdeo.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Deepika Asandi',
-  location: 'Indore, India',
+  location: 'Boston, massachusetts',
   email: 'sai_deepika.asandi@tufts.edu',
   github: 'https://github.com/deepika-asandi',
   twitterHandle: '@',
@@ -22,18 +22,14 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/deepika-asandi/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/deepika_asandi/',
+    // },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/',
+    // },
   ],
 
   navLinks: [

@@ -2,21 +2,22 @@
 title: 'About Me'
 avatar: 'me.jpeg'
 skills:
-  - Coding
-  - Reading
-  - Painting
-  - Crafting
-  - Problem Solving
-  - Team Management
-  - Mentoring
+  - Visualization
+  - Machine Learning
+  - Pipelines
+  - Problem-Solving
+  - Publishing
+  - Books
+  - Dance
 ---
 
-Hello! I'm Deepika Asandi, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Data Analytics Graduate Student | Tufts University | GPA: 3.9
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+Passionate about transforming data into actionable insights, I'm currently honing my skills as a Data Analytics intern at the MBTA, where I build data pipelines and create impactful dashboards. As a Teaching Assistant, I enjoy guiding fellow students through the exciting worlds of Python, machine learning, and analytics.
 
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
+My research experience spans analyzing transportation data and leading innovative projects at HuT Labs—like autonomous vehicle lane segmentation and a voter ID and fingerprint-based e-voting system, which I proudly published with IEEE. I’ve also embraced the thrill of international collaboration at IDC Robocon 2021 and 2022, tackling robotics challenges head-on.
 
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
+When I'm not immersed in data, you can find me lost in a captivating book, dancing my heart out, or exploring diverse narratives through storytelling.
+
 
 Here are a few of the other activities that I love to do!

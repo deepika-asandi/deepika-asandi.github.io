@@ -1,13 +1,14 @@
 ---
-date: '2021-06-01'
-title: 'Voter Registration WebApp'
+date: '2022'
+title: 'Dynamic Lane Segmentation for Autonomous vehicles using neural networks'
 github: 'https://github.com/deepika-asandi/Voter-Registration-WebApp'
-external: 'https://yashitanamdeo.github.io/Voter-Registration-WebApp/'
+external: 'https://ieeexplore.ieee.org/document/10039575'
 tech:
-  - HTML
-  - CSS
-company: 'Suven'
+- Python
+- Deep Learning
+- Computer Vision
+company: 'IEEE- ICAST-2022'
 showInProjects: true
 ---
 
-Project 4 under HTML-CSS Suven Coding Internship
+Developed a Dynamic Lane Segmentation for autonomous vehicles using Neural Networks, dealt with a computer- vision-based approach, in which an autonomous car is made capable of dynamically adjusting its speed based on the curvature and continuity of the road and the relative position of the obstacles in its path. Published research paper under IEEE and presented at the 5th IEEE International Conference on Advances in Science and Technology

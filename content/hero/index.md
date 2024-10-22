@@ -1,11 +1,12 @@
 ---
 title: 'Hello, my name is'
 name: 'Deepika Asandi'
-subtitle: 'I love transforming data into strategic insights!'
+subtitle: ''
 buttonText: 'Get In Touch'
 ---
 
-I'm a Master's student in Data Analytics at Tufts, with a focus on data architecture, pipeline optimization, and KPI dashboards. Currently interning with the MBTA, I streamline data processes and develop dashboards that boost efficiency and ensure data accuracy.
+I love transforming data into strategic insights!
 
+As a Master's student in Data Analytics at Tufts, I specialize in data architecture, pipeline optimization, and KPI dashboards. Currently, I’m interning with the MBTA, where I streamline data processes and develop dashboards that enhance efficiency and ensure data accuracy.
 
-I enjoy learning new skills and implementing them in real life!
+I thrive on learning new skills and applying them to real-world challenges!
