@@ -13,3 +13,5 @@ showInProjects: true
 ---
 
 Power BI dashboard for Zenith's sales analysis – featuring top-performing regions, best-selling products, and a clear revenue breakdown across categories. Built for quick insights into what’s driving sales and where there’s potential to grow.
+
+Link :

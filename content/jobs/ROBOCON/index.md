@@ -1,9 +1,8 @@
 ---
 date: '2019-01-01'
-title: 'Student Research'
+title: 'Student Researcher'
 company: 'ROBOCON'
 location: onsite
-range: ''
 url: 'https://robocon.io/'
 ---
 

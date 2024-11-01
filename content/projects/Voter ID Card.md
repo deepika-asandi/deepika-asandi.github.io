@@ -1,14 +1,14 @@
 ---
 date: '2021'
 title: 'Voter ID Card and fingerprint based e voting system (2021)'
-github: 'https://github.com/deepika-asandi/AlarmClock'
-external: 'https://www.researchgate.net/publication 357916984_Voter_ID_Card_and_Fingerprint-Based_E-voting_System '
+github: 'https://github.com/deepika-asandi/Voter-ID-Card-and-fingerprint-based-e-voting-system'
+external: 'https://www.researchgate.net/publication/357916984_Voter_ID_Card_and_Fingerprint-Based_E-voting_System'
 tech:
-- Database Management
-- Raspberry Pi 
-- Python 
-- IoT
-- Web Development
+  - Database Management
+  - Raspberry Pi
+  - Python
+  - IoT
+  - Web Development
 company: 'Hutlabs'
 showInProjects: true
 ---

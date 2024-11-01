@@ -1,12 +1,12 @@
 ---
 date: '2022'
 title: 'Dynamic Lane Segmentation for Autonomous vehicles using neural networks'
-github: 'https://github.com/deepika-asandi/Voter-Registration-WebApp'
+github: 'https://github.com/deepika-asandi/Dynamic-Lane-Segmentation-for-Autonomous-vehicles-using-neural-networks'
 external: 'https://ieeexplore.ieee.org/document/10039575'
 tech:
-- Python
-- Deep Learning
-- Computer Vision
+  - Python
+  - Deep Learning
+  - Computer Vision
 company: 'IEEE- ICAST-2022'
 showInProjects: true
 ---

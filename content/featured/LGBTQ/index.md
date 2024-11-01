@@ -1,6 +1,7 @@
 ---
 date: '4'
-title: 'L.png'
+title: 'LGBTQ+ Travel Safety: Top Destinations and Global Insights'
+cover: 'L.png'
 github: 'https://github.com/deepika-asandi/LGBTQ-Travel-Safety-Dashboard'
 external: 'https://public.tableau.com/app/profile/sai.deepika.asandi/viz/LGBTQTravelSafetyTopDestinationsandGlobalInsights/Story1'
 tech:

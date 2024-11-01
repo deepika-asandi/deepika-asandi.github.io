@@ -3,7 +3,6 @@ date: '2019-01-01'
 title: 'IEEE Signal Processing Chair'
 company: 'Hutlabs, Amrita Vishwa Vidyapeetham'
 location: onsite
-range: ''
 url: 'https://www.amrita.edu/campus/amritapuri/'
 ---
 
