@@ -1,9 +1,9 @@
 ---
 date: '2'
 title: 'Cowpea Leaf Disease Identification Using Deep Learning '
-cover: './disneyclone.png'
-github: 'https://github.com/deepika-asandi/Disney-plus-Clone'
-external: 'https://disney-clone-83e44.web.app/'
+cover: './C.jpeg'
+github: 'https://github.com/deepika-asandi/Cowpea-Leaf-Disease-Identification-Using-Deep-Learning'
+external: ''
 tech:
   - ReactJS
   - Redux

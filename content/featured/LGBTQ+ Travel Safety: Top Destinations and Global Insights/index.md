@@ -1,9 +1,8 @@
 ---
 date: '4'
-title: 'LGBTQ+ Travel Safety: Top Destinations and Global Insights'
-cover: 'face-landmark.png'
-github: 'https://github.com/deepika-asandi/face-landmark-detection'
-external: 'https://public.tableau.com/authoring/LGBTQTravelSafetyTopDestinationsandGlobalInsights/Story1#1'
+title: 'L.png'
+github: 'https://github.com/deepika-asandi/LGBTQ-Travel-Safety-Dashboard'
+external: 'https://public.tableau.com/app/profile/sai.deepika.asandi/viz/LGBTQTravelSafetyTopDestinationsandGlobalInsights/Story1'
 tech:
   - Power Bi
   - Multi-Linear Regression

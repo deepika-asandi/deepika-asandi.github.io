@@ -1,8 +1,8 @@
 ---
 date: '3'
 title: 'Zenith'
-cover: 'face-mask.png'
-github: 'https://github.com/deepika-asandi/Realtime-Face-Mask-Detection'
+cover: 'Z.png'
+github: 'https://github.com/deepika-asandi/Zenith-Dashboard'
 external: 'https://app.powerbi.com/groups/me/reports/981f1eed-3dfa-4914-b0f2-0886a44ae9e5/ReportSection?experience=power-bi'
 tech:
   - Power Bi
@@ -12,6 +12,4 @@ tech:
 showInProjects: true
 ---
 
-Power BI dashboard for Zenith's sales analysis  – featuring top-performing regions, best-selling products, and a clear revenue breakdown across categories. Built for quick insights into what’s driving sales and where there’s potential to grow.
-
-Link : 
+Power BI dashboard for Zenith's sales analysis – featuring top-performing regions, best-selling products, and a clear revenue breakdown across categories. Built for quick insights into what’s driving sales and where there’s potential to grow.
